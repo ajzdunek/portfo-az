@@ -19,5 +19,15 @@
        and (device-width : 414px)
        and (device-height : 896px)
        and (-webkit-device-pixel-ratio : 3) {
-         .hello, .about-one, .about-two, .about-three. .about-four { font-size: 45px }
+         .hello, .about-one, .about-two, .about-three, .about-four { font-size: 45px }
         }
+  
+        .port-image {
+          width: 100%;
+      }
+      
+      .gallery_product {
+          margin-bottom: 30px;
+      
+      }
+
